@@ -33,6 +33,13 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 - Ensures **Shariah compliance** and regulatory alignment
 - End-to-end encryption for user data and wallet interactions
 
+
+## 🧠 Future Enhancements
+- Integration with government zakat authorities
+- Enhanced NFT donation certificates with dynamic metadata
+- Multi-chain support beyond Ethereum
+## 🛠️ Technologies Used
+
 ---
 
 ## 📸 Prototype Preview
@@ -40,12 +47,6 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 https://www.figma.com/design/MkZY7xjYiE7C16EncGIEIq/um-hack-2025?node-id=0-1&t=20QshJyWMLdvzKpj-1 
 
 ---
-
-## 🧠 Future Enhancements
-- Integration with government zakat authorities
-- Enhanced NFT donation certificates with dynamic metadata
-- Multi-chain support beyond Ethereum
-## 🛠️ Technologies Used
 
 - **Polygon PoS**: Scalable, cost-effective blockchain for fast and secure transactions.
 - **Smart Contracts (Solidity)**: Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
