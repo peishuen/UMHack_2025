@@ -51,10 +51,19 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend**: Figma prototype (link attached)
-- **Blockchain**: Polygon PoS, Ethereum Smart Contracts, Blockchain Oracles
-- **FinTech Stack**: Wallet integration, NFT-based certificates, real-time payments
-- **AI**: Allocation suggestions and impact prediction (planned)
+•	Polygon PoS: Scalable, cost-effective blockchain for fast and secure transactions.
+•	Smart Contracts (Solidity): Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
+•	Chainlink Oracles: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
+•	XGBoost: AI model for recipient scoring, prioritizing those most in need.
+•	FastAPI: Connects machine learning and blockchain logic in the backend.
+•	React & React Native
+ignore above -----------
+•	Polygon PoS: Scalable, cost-effective blockchain for fast and secure transactions.
+•	Smart Contracts (Solidity): Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
+•	Chainlink Oracles: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
+•	XGBoost: AI model for recipient scoring, prioritizing those most in need.
+•	FastAPI: Connects machine learning and blockchain logic in the backend.
+•	React & React Native: Seam
 
 ---
 
