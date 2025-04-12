@@ -51,19 +51,13 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 ---
 
 ## 🛠️ Technologies Used
-•	Polygon PoS: Scalable, cost-effective blockchain for fast and secure transactions.
-•	Smart Contracts (Solidity): Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
-•	Chainlink Oracles: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
-•	XGBoost: AI model for recipient scoring, prioritizing those most in need.
-•	FastAPI: Connects machine learning and blockchain logic in the backend.
-•	React & React Native
-ignore above -----------
-•	Polygon PoS: Scalable, cost-effective blockchain for fast and secure transactions.
-•	Smart Contracts (Solidity): Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
-•	Chainlink Oracles: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
-•	XGBoost: AI model for recipient scoring, prioritizing those most in need.
-•	FastAPI: Connects machine learning and blockchain logic in the backend.
-•	React & React Native: Seam
+
+- **Polygon PoS**: Scalable, cost-effective blockchain for fast and secure transactions.
+- **Smart Contracts (Solidity)**: Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
+- **Chainlink Oracles**: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
+- **XGBoost**: AI model for recipient scoring, prioritizing those most in need.
+- **FastAPI**: Connects machine learning and blockchain logic in the backend.
+- **React & React Native**: Seamless development for both web and mobile platforms with a unified codebase.
 
 ---
 
