@@ -52,7 +52,7 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 
 ## 🛠️ Technologies Used
 - **Frontend**: Figma prototype (link attached)
-- **Blockchain**: Ethereum Smart Contractsm, Blockchain oracles
+- **Blockchain**: Polygon PoS, Ethereum Smart Contracts, Blockchain Oracles
 - **FinTech Stack**: Wallet integration, NFT-based certificates, real-time payments
 - **AI**: Allocation suggestions and impact prediction (planned)
 
