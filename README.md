@@ -41,7 +41,17 @@ https://www.figma.com/design/MkZY7xjYiE7C16EncGIEIq/um-hack-2025?node-id=0-1&t=2
 
 ---
 
+## 🧠 Future Enhancements
+- Integration with government zakat authorities
+- Enhanced NFT donation certificates with dynamic metadata
+- Multi-chain support beyond Ethereum
+## 🛠️ Technologies Used
 
+- **Polygon PoS**: Scalable, cost-effective blockchain for fast and secure transactions.
+- **Smart Contracts (Solidity)**: Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
+- **Chainlink Oracles**: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
+- **XGBoost**: AI model for recipient scoring, prioritizing those most in need.
+- **FastAPI**: Connects machine learning and blockchain logi
 
 ---
 
