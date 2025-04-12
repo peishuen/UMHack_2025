@@ -72,7 +72,6 @@ https://www.figma.com/design/MkZY7xjYiE7C16EncGIEIq/um-hack-2025?node-id=0-1&t=2
 ---
 
 ## 🧠 Future Enhancements
-- AI-powered zakat/nisaab calculator
 - Integration with government zakat authorities
 - Enhanced NFT donation certificates with dynamic metadata
 - Multi-chain support beyond Ethereum
